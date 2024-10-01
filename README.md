@@ -1,2 +1,2 @@
 # Lab1
-CSE 29 B260 Lab 1
+Edited ReadME
